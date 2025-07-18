@@ -10,9 +10,8 @@
 
 - **🧰 Monitoring & Control Tools** – Developing customer-facing systems to manage and monitor gas power plants at **GE Vernova**.
 - **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung](https://pni.princeton.edu/people/h-sebastian-seung) at Princeton.
-- 📊 Quantitative trading strategies and financial modeling  
-- 🤖 Tools that merge data, automation, and intelligence  
-- 🎥 Creative AI content projects (yes, even ASMR 👂✨)  
+- **💹 NLP for Finance** – Applying sentiment classification and language models to develop trading signals and enhance market strategies.
+- 🤖 Tools that merge data, automation, and intelligence
 
 ---
 
