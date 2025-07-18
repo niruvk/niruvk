@@ -16,11 +16,11 @@
 
 ### 📌 Featured Projects
 
-- **Financial Sentiment Classification Research** – Benchmarked updated models for entity-level classification in financial texts, significantly outperforming prior work and demonstrating stronger correlation with price movements than traditional sentiment-level methods.  
-  [📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf) | [💻 Code](https://github.com/niruvk/FinEntity-Extension)
-
 - **Transformers Research** – Investigated how scaling attention heads and hidden dimensions affects memorization under fixed parameter budgets, providing insight into architectural efficiency.  
   [📄 Paper](https://niruvk.github.io/Transformers_Research/Transformers_Research.pdf) | [💻 Code](https://github.com/niruvk/Transformers_Research)
+  
+- **Financial Sentiment Classification Research** – Benchmarked updated models for entity-level classification in financial texts, significantly outperforming prior work and demonstrating stronger correlation with price movements than traditional sentiment-level methods.  
+  [📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf) | [💻 Code](https://github.com/niruvk/FinEntity-Extension)
 
 - **Pantry 2 Plate** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
   [🌐 Website](https://pantry-2-plate.onrender.com/) | [💻 Code](https://github.com/niruvk/Pantry_2_Plate)
