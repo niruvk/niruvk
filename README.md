@@ -23,10 +23,10 @@
   [📄 Paper](https://niruvk.github.io/Transformers_Research/Memorization_Capacity_of_Neural_Networks.pdf) | [💻 Code](https://github.com/niruvk/Transformers_Research)
 
 - **Pantry 2 Plate** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
-  [🌐 Website](https://your-website-link.com) | [💻 Code](https://github.com/your-username/pantry_2_plate)
+  [🌐 Website](https://pantry-2-plate.onrender.com/) | [💻 Code](https://github.com/niruvk/Pantry_2_Plate)
 
 - **Ray** – A wearable necklace that uses Arduino and UV sensors to track sun exposure in real time, syncing with a mobile app to provide UV stats, sunscreen recommendations, and skin safety alerts.  
-  [💻 Code](https://github.com/your-username/ray)
+  [💻 Code](https://github.com/niruvk/Ray)
 
 ---
 
