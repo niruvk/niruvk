@@ -22,8 +22,8 @@
 - **Memorization Capabilities of Transformers Research** – Investigated how scaling attention heads and hidden dimensions affects memorization under fixed parameter budgets, providing insight into architectural efficiency.  
   [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/memorization-transformers)
 
-- **Pantry 2 Plate** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
-  [💻 Code](https://github.com/your-username/pantry_2_plate)
+- **[Pantry_2_Plate](https://your-website-link.com)** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
+  [🌐 Website](https://your-website-link.com) | [💻 Code](https://github.com/your-username/pantry_2_plate)
 
 - **Ray** – A wearable necklace that uses Arduino and UV sensors to track sun exposure in real time, syncing with a mobile app to provide UV stats, sunscreen recommendations, and skin safety alerts.  
   [💻 Code](https://github.com/your-username/ray)
