@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Niru 👋</h1>
 
 <p align="center">
-  <em>Engineer | Researcher | Creator</em>  
+  <em>Engineer | Researcher | Innovator</em>  
 </p>
 
 ---
 
 ### 🔭 What I’m Working On
 
-- 🧠 AI and ML research, especially in NLP and reinforcement learning  
+- **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung](https://scholar.google.com/citations?user=4G3Zz6AAAAAJ&hl=en) at Princeton.
 - 📊 Quantitative trading strategies and financial modeling  
 - 🤖 Tools that merge data, automation, and intelligence  
 - 🎥 Creative AI content projects (yes, even ASMR 👂✨)  
