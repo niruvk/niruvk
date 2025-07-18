@@ -14,14 +14,6 @@
 
 ---
 
-### 🌱 What I’m Learning
-
-- Finetuning transformer models for specific downstream tasks  
-- Advanced backtesting techniques for algorithmic trading  
-- Full-stack web development (React, Flask, MongoDB, SQL)
-
----
-
 ### 💡 Featured Projects
 
 - **📈 Earnings Options Strategy** – a Python tool that exploits volatility spikes pre-earnings  
