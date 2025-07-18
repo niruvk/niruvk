@@ -20,7 +20,7 @@
   [📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf) | [💻 Code](https://github.com/niruvk/FinEntity-Extension)
 
 - **Memorization Capabilities of Transformers Research** – Investigated how scaling attention heads and hidden dimensions affects memorization under fixed parameter budgets, providing insight into architectural efficiency.  
-  [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/memorization-transformers)
+  [📄 Paper](https://niruvk.github.io/Transformers_Research/Memorization_Capacity_of_Neural_Networks.pdf) | [💻 Code](https://github.com/your-username/memorization-transformers)
 
 - **Pantry 2 Plate** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
   [🌐 Website](https://your-website-link.com) | [💻 Code](https://github.com/your-username/pantry_2_plate)
