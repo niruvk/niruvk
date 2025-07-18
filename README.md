@@ -9,7 +9,7 @@
 ### 🔭 What I’m Working On
 
 - **🧰 Monitoring & Control Tools** – Developing customer-facing systems to manage and monitor gas power plants at **GE Vernova**.
-- **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung](https://pni.princeton.edu/people/h-sebastian-seung) at Princeton.
+- **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung](https://pni.princeton.edu/people/h-sebastian-seung) at **Princeton**.
 - **💹 NLP for Finance** – Applying sentiment classification and language models to develop trading signals and enhance market strategies.
 
 ---
