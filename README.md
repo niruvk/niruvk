@@ -14,12 +14,19 @@
 
 ---
 
-### 💡 Featured Projects
+### 📌 Featured Projects
 
-- **📈 Earnings Options Strategy** – a Python tool that exploits volatility spikes pre-earnings  
-- **🤖 FinBERT-CRF Fine-Tuning** – adapted FinEntity to analyze commodity sentiment  
-- **🧬 NAS-Bench Research** – graph neural networks for neural architecture recommendation  
-- **🖼️ Princeton Plate Planner** – recipe recommendation app for students  
+- **[FinEntity Extension Research](https://your-paper-link.com)** – Benchmarked updated models for entity-level classification in financial texts, significantly outperforming prior work and demonstrating stronger correlation with price movements than traditional sentiment-level methods.  
+  [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/finentity-extension)
+
+- **[Memorization Capabilities of Transformers](https://your-paper-link.com)** – Investigated how scaling attention heads and hidden dimensions affects memorization under fixed parameter budgets, providing insight into architectural efficiency.  
+  [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/memorization-transformers)
+
+- **[Pantry_2_Plate](https://github.com/your-username/pantry_2_plate)** – A web app that recommends recipes based on what ingredients users already have, helping reduce food waste and streamline home cooking.  
+  [💻 Code](https://github.com/your-username/pantry_2_plate)
+
+- **[Ray](https://github.com/your-username/ray)** – A wearable necklace that uses Arduino and UV sensors to track sun exposure in real time, syncing with a mobile app to provide UV stats, sunscreen recommendations, and skin safety alerts.  
+  [💻 Code](https://github.com/your-username/ray)
 
 ---
 
