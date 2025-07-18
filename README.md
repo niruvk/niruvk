@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Niru 👋</h1>
 
-<!--
-**niruvk/niruvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Engineer | Researcher | Creator</em>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Working On
+
+- 🧠 AI and ML research, especially in NLP and reinforcement learning  
+- 📊 Quantitative trading strategies and financial modeling  
+- 🤖 Tools that merge data, automation, and intelligence  
+- 🎥 Creative AI content projects (yes, even ASMR 👂✨)  
+
+---
+
+### 🌱 What I’m Learning
+
+- Finetuning transformer models for specific downstream tasks  
+- Advanced backtesting techniques for algorithmic trading  
+- Full-stack web development (React, Flask, MongoDB, SQL)
+
+---
+
+### 💡 Featured Projects
+
+- **📈 Earnings Options Strategy** – a Python tool that exploits volatility spikes pre-earnings  
+- **🤖 FinBERT-CRF Fine-Tuning** – adapted FinEntity to analyze commodity sentiment  
+- **🧬 NAS-Bench Research** – graph neural networks for neural architecture recommendation  
+- **🖼️ Princeton Plate Planner** – recipe recommendation app for students  
+
+---
+
+### 📫 Let’s Connect!
+
+- 🌐 [niruvk.github.io](https://niruvk.github.io) (optional if you have a site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🧪 [Google Scholar or ResearchGate] (optional)  
+- ✉️ Email: your.email@example.com  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niruvk&label=Profile%20views&color=0e75b6&style=flat" alt="niruvk" />
+</p>
