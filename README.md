@@ -17,7 +17,7 @@
 ### 📌 Featured Projects
 
 - **Financial Sentiment Classification Research** – Benchmarked updated models for entity-level classification in financial texts, significantly outperforming prior work and demonstrating stronger correlation with price movements than traditional sentiment-level methods.  
-  [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/finentity-extension)
+  [📄 Paper](https://niruvk.github.io/FinEntity-Extension/FinEntity_Paper.pdf) | [💻 Code](https://github.com/niruvk/FinEntity-Extension)
 
 - **Memorization Capabilities of Transformers Research** – Investigated how scaling attention heads and hidden dimensions affects memorization under fixed parameter budgets, providing insight into architectural efficiency.  
   [📄 Paper](https://your-paper-link.com) | [💻 Code](https://github.com/your-username/memorization-transformers)
