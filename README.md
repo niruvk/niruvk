@@ -8,7 +8,7 @@
 
 ### 🔭 What I’m Working On
 
-- **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung]([https://scholar.google.com/citations?user=4G3Zz6AAAAAJ&hl=en](https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en)) at Princeton.
+- **🧠 AI & Computational Neuroscience** – Researching neural learning and representation with [Dr. Sebastian Seung](https://scholar.google.com/citations?user=4G3Zz6AAAAAJ&hl=en) at Princeton.
 - 📊 Quantitative trading strategies and financial modeling  
 - 🤖 Tools that merge data, automation, and intelligence  
 - 🎥 Creative AI content projects (yes, even ASMR 👂✨)  
