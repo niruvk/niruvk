@@ -32,9 +32,11 @@
 
 ### 🌱 What I’m Learning
 
-- Finetuning transformer models for specific downstream tasks  
-- Advanced backtesting techniques for algorithmic trading  
-- Full-stack web development (React, Flask, MongoDB, SQL)
+- **Deep Learning Foundations** – Core ML theory and advanced topics like contrastive/self-supervised learning, transformers, diffusion models, interpretability, and fine-tuning large models.
+
+- **Computational Neuroscience & Biophysics** – Studying how neural circuits compute and learn, with ties to brain-inspired AI and representation learning.
+
+- **Market Modeling** – Studying trading strategies, volatility modeling, and how financial signals can be extracted and tested using real-world data.
 
 ---
 
