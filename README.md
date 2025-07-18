@@ -25,13 +25,5 @@
 
 ### 📫 Let’s Connect!
 
-- 🌐 [niruvk.github.io](https://niruvk.github.io) (optional if you have a site)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧪 [Google Scholar or ResearchGate] (optional)  
-- ✉️ Email: your.email@example.com  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niruvk&label=Profile%20views&color=0e75b6&style=flat" alt="niruvk" />
-</p>
+- ✉️ Email: nv2608@princeton.edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/niruvk)   
