@@ -2,7 +2,8 @@
 
 <p align="center">
   <em>Engineer | Researcher | Innovator</em>  
-  
+</p>
+<p align="center">
   <em>CS + Math @ Princeton | Data Science @ GE Vernova</em>
 </p>
 
