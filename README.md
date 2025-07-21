@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Niru 👋</h1>
 
 <p align="center">
-  <em>CS + Math @ Princeton | Data Science @ GE Vernova</em>
+  <em>CS + Math @ Princeton University | Data Science @ GE Vernova</em>
 </p>
 
 ---
